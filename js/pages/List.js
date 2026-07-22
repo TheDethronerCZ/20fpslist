@@ -109,7 +109,7 @@ export default {
                         should have taps or raw footage
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        cbf and cbs is banne
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
