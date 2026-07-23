@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Record must be on EXACTLY 20FPS
+                        Record must be on 20fps or less
                     </p>
                     <p>
                         no hax that bad according to pointercrate
